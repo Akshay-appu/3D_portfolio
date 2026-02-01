@@ -43,26 +43,26 @@ import { TbTerminal2 } from "react-icons/tb";
 const CONTACT_LINKS = [
   {
     name: "Email",
-    content: "naresh.khatri2345@gmail",
-    href: "mailto:naresh.khatri2345@gmail.com",
+    content: "metaoffical4@gmail",
+    href: "mailto:metaoffical4@gmail.com",
     icon: <FaEnvelope height={"50px"} />,
   },
   {
     name: "Phone",
-    content: "1234567890",
-    href: "tel:1234567890",
+    content: "#",
+    // href: "tel:1234567890",
     icon: <FaPhone height={"50px"} />,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/naresh-khatri/",
-    content: "/naresh-khatri",
+    href: "www.linkedin.com/in/akshay-kumar-kn-a35733236",
+    // content: "/Akshay-appu",
     icon: <FaLinkedin height={"50px"} />,
   },
   {
     name: "GitHub",
-    href: "https://github.com/Naresh-Khatri",
-    content: "/naresh-khatri",
+    href: "#",
+    // content: "/naresh-khatri",
     icon: <FaGithub height={"50px"} />,
   },
 ];
@@ -92,66 +92,66 @@ const TOOLS = [
     icon: <FaCss3 size={"50px"} color="#563d7c" />,
     color: "#563d7c",
   },
-  {
-    name: "Nodejs",
-    content: "Next.js is a React framework for production",
-    icon: <FaNodeJs size={"50px"} color="#6cc24a" />,
-    color: "#6cc24a",
-  },
-  {
-    name: "React.js",
-    content: "Next.js is a React framework for production",
-    icon: <FaReact size={"50px"} color="#61dafb" />,
-    color: "#61dafb",
-  },
-  {
-    name: "Docker",
-    content: "Next.js is a React framework for production",
-    icon: <FaDocker size={"50px"} color="#2496ed" />,
-    color: "#2496ed",
-  },
-  {
-    name: "NginX",
-    content: "Next.js is a React framework for production",
-    icon: <DiNginx size={"50px"} color="#008000" />,
-    color: "#008000",
-  },
-  {
-    name: "Vue.js",
-    content: "Next.js is a React framework for production",
-    icon: <FaVuejs size={"50px"} color="#41b883" />,
-    color: "#41b883",
-  },
-  {
-    name: "Express.js",
-    content: "Next.js is a React framework for production",
-    icon: <SiExpress size={"50px"} color="#fff" />,
-    color: "#000000",
-  },
-  {
-    name: "PostgreSQL",
-    content: "Next.js is a React framework for production",
-    icon: <DiPostgresql size={"50px"} color="#336791" />,
-    color: "#336791",
-  },
-  {
-    name: "MongoDB",
-    content: "Next.js is a React framework for production",
-    icon: <DiMongodb size={"50px"} color="#4db33d" />,
-    color: "#4db33d",
-  },
-  {
-    name: "Tailwind CSS",
-    content: "Next.js is a React framework for production",
-    icon: <RiTailwindCssFill size={"50px"} color="#06b6d4" />,
-    color: "#06b6d4",
-  },
-  {
-    name: "Firebase",
-    content: "Next.js is a React framework for production",
-    icon: <RiFirebaseFill size={"50px"} color="#FFCA28" />,
-    color: "#FFCA28",
-  },
+  // {
+  //   name: "Nodejs",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <FaNodeJs size={"50px"} color="#6cc24a" />,
+  //   color: "#6cc24a",
+  // },
+  // {
+  //   name: "React.js",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <FaReact size={"50px"} color="#61dafb" />,
+  //   color: "#61dafb",
+  // },
+  // {
+  //   name: "Docker",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <FaDocker size={"50px"} color="#2496ed" />,
+  //   color: "#2496ed",
+  // },
+  // {
+  //   name: "NginX",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <DiNginx size={"50px"} color="#008000" />,
+  //   color: "#008000",
+  // },
+  // {
+  //   name: "Vue.js",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <FaVuejs size={"50px"} color="#41b883" />,
+  //   color: "#41b883",
+  // },
+  // {
+  //   name: "Express.js",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <SiExpress size={"50px"} color="#fff" />,
+  //   color: "#000000",
+  // },
+  // {
+  //   name: "PostgreSQL",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <DiPostgresql size={"50px"} color="#336791" />,
+  //   color: "#336791",
+  // },
+  // {
+  //   name: "MongoDB",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <DiMongodb size={"50px"} color="#4db33d" />,
+  //   color: "#4db33d",
+  // },
+  // {
+  //   name: "Tailwind CSS",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <RiTailwindCssFill size={"50px"} color="#06b6d4" />,
+  //   color: "#06b6d4",
+  // },
+  // {
+  //   name: "Firebase",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <RiFirebaseFill size={"50px"} color="#FFCA28" />,
+  //   color: "#FFCA28",
+  // },
   {
     name: "Git",
     content: "Next.js is a React framework for production",
@@ -170,30 +170,30 @@ const TOOLS = [
     icon: <SiVscodium size={"50px"} color="#007acc" />,
     color: "#007acc",
   },
-  {
-    name: "VIM",
-    content: "Next.js is a React framework for production",
-    icon: <DiVim size={"50px"} color="#fff" />,
-    color: "#000000",
-  },
-  {
-    name: "Prettier",
-    content: "Next.js is a React framework for production",
-    icon: <SiPrettier size={"50px"} color="#f7b93c" />,
-    color: "#f7b93c",
-  },
-  {
-    name: "NPM",
-    content: "Next.js is a React framework for production",
-    icon: <DiNpm size={"50px"} color="#CB3837" />,
-    color: "#CB3837",
-  },
-  {
-    name: "Yarn",
-    content: "Next.js is a React framework for production",
-    icon: <FaYarn size={"50px"} color="#2C8EBB" />,
-    color: "#2C8EBB",
-  },
+  // {
+  //   name: "VIM",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <DiVim size={"50px"} color="#fff" />,
+  //   color: "#000000",
+  // },
+  // {
+  //   name: "Prettier",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <SiPrettier size={"50px"} color="#f7b93c" />,
+  //   color: "#f7b93c",
+  // },
+  // {
+  //   name: "NPM",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <DiNpm size={"50px"} color="#CB3837" />,
+  //   color: "#CB3837",
+  // },
+  // {
+  //   name: "Yarn",
+  //   content: "Next.js is a React framework for production",
+  //   icon: <FaYarn size={"50px"} color="#2C8EBB" />,
+  //   color: "#2C8EBB",
+  // },
   {
     name: "Vercel",
     content: "Next.js is a React framework for production",
@@ -206,13 +206,13 @@ const TOOLS = [
     icon: <FaLinux size={"50px"} color="#fff" />,
     color: "#000000",
   },
-  {
-    name: "Kubuntu",
-    content: "Next.js is a React framework for production",
-    // give me correct color for  kubuntu
-    icon: <SiKubuntu size={"50px"} color="#0077C4" />,
-    color: "#000000",
-  },
+  // {
+  //   name: "Kubuntu",
+  //   content: "Next.js is a React framework for production",
+  //   // give me correct color for  kubuntu
+  //   icon: <SiKubuntu size={"50px"} color="#0077C4" />,
+  //   color: "#000000",
+  // },
   {
     name: "Terminal",
     content: "Next.js is a React framework for production",
@@ -251,7 +251,7 @@ function Page() {
                 />
               </div>
               <div className="flex flex-col gap-3 lg:items-center ml-10 md:ml-20 lg:ml-0">
-                <p className="text-center text-xl">Naresh Khatri</p>
+                <p className="text-center text-xl">Akshay Kumar KN</p>
                 <div className="text-xs bg-zinc-700 w-fit px-3 py-1 rounded-full">
                   Web Developer
                 </div>
@@ -287,17 +287,17 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I&apos;m Naresh, a Fullstack developer passionate about
-              creating meaningful digital experiences. With great in Web
-              development, I thrive on turning ideas into reality through coding
-              and design. My journey began with a fascination for technology and
-              a drive to make a positive impact.
+              Hey there! I am passionate and hard working person. I feel is very beautiful to sketch a 'NOVELS' and 'LIVRE'.
+My main objective would to have a voice in the process of ART (implementation of POEM and BOOKS) not just to change a system of ART, but also to help to juveniles, realize that they are capable and equipped to serve better in WORLD OF ART and I appreaciate.
+As a student in ENGINEERING.
+At present I look forward to the upcomming new TECHNO WORLD. Being a part of that.
+I'm greatful to view the feature TECHNOLOGY. where the juveniles skill and knowledge could be enhances.
             </p>
-            <p className="mb-10">
+            {/* <p className="mb-10">
               When I&apos;m not coding, you can find me [Your
               Interests/Hobbies], exploring new technologies, or sipping coffee
               while brainstorming my next project.
-            </p>
+            </p> */}
             <h1 className="text-3xl mb-10 lg:md-20">Stuff I use</h1>
             <div className="mb-5">
               {!toolsLoaded ? (
