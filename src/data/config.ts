@@ -1,34 +1,25 @@
 const config = {
-  title: "Naresh Khatri | Full-Stack Developer",
+  title: "Akshay Kumar KN | Web Developer, Android APP Developer",
   description: {
-    long: "Explore the portfolio of Naresh, a full-stack developer and creative technologist specializing in interactive web experiences, 3D animations, and innovative projects. Discover my latest work, including Coding Ducks, The Booking Desk, Ghostchat, and more. Let's build something amazing together!",
+    long: "Explore the portfolio of Akshay, a Web developer and creative technologist specializing in interactive web experiences, 3D animations, and innovative projects. Let's build something amazing together!",
     short:
-      "Discover the portfolio of Naresh, a full-stack developer creating interactive web experiences and innovative projects.",
+      "Discover the portfolio of Akshay, a Web developer creating interactive web experiences and innovative projects.",
   },
   keywords: [
-    "Naresh",
+    "Akshay",
     "portfolio",
-    "full-stack developer",
+    "a Web developer",
     "creative technologist",
-    "web development",
     "3D animations",
     "interactive websites",
-    "Coding Ducks",
-    "The Booking Desk",
-    "Ghostchat",
     "web design",
-    "GSAP",
-    "React",
-    "Next.js",
-    "Spline",
-    "Framer Motion",
-  ],
-  author: "Naresh Khatri",
-  email: "naresh.khatri2345@gmail.com",
-  site: "https://nareshkhatri.site",
+    ],
+  author: "Akshay Kumar KN",
+  email: "metaoffical4@gmail.com",
+  site: "#",
 
   // for github stars button
-  githubUsername: "naresh-khatri",
+  githubUsername: "Akshay-appu",
   githubRepo: "3d-portfolio",
 
   get ogImg() {
@@ -36,10 +27,10 @@ const config = {
   },
   social: {
     twitter: "https://x.com/nothotchaddi",
-    linkedin: "https://www.linkedin.com/in/naresh-khatri/",
-    instagram: "https://www.instagram.com/hotchaddi",
-    facebook: "https://www.facebook.com/HotChaddi/",
-    github: "https://github.com/Naresh-Khatri",
+    linkedin: "www.linkedin.com/in/akshay-kumar-kn-a35733236",
+    instagram: "https://www.instagram.com/Unique_historiographer",
+    facebook: "#",
+    github: "#",
   },
 };
 export { config };
